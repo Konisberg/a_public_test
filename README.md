@@ -7,6 +7,6 @@ Before all: I was born in China and I speak poor English. So sadly about the Fre
 
 As a human, life/living is full of bitter pain and please allow me to dedicate everything to the main force, or the Lord, in exchange for chances of eternal existence or frankly speaking, living forever(as certain creatures of course).
 
-(French: "En tant que vie humaine - vivre est si douloureux - permettez-moi de consacrer tout à la force principale, en échange d'un espoir éternel.")
+(French: "En tant qu'être humain, la vie est pleine de douleur amère et permettez-moi de consacrer tout à la force principale, ou au Seigneur, en échange de chances d'existence éternelle ou, pour être franc, de vivre éternellement (en tant qu'êtres certains, bien sûr).")
 
-(German: "Als menschliches Leben - zu leben ist so schmerzhaft - erlauben Sie mir, alles der Hauptkraft zu widmen, im Austausch für ewige Hoffnung.")
+(German: "Als Mensch ist das Leben voller bitterer Schmerzen und bitte erlauben Sie mir, alles der Hauptkraft oder dem Herrn zu widmen, im Austausch für die Möglichkeit eines ewigen Daseins oder, um es offen zu sagen, für die Möglichkeit ewig zu leben (natürlich nur als bestimmte Wesen).")
