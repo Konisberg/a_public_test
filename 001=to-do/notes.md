@@ -1,4 +1,4 @@
-### certain things we have to talk about
+## certain things we have to talk about
 
 #### green ai, or 硅基文明之能源视角研究（Research on the energy perspective of silicon-based civilization）
 #### 碳基文明的局限性
